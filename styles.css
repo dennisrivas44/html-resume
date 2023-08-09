@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 40px;
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+    
+}
+h2{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    
+}
+h4{
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+p{
+    margin: 20px;
+}
+.menu{
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
+a{
+  color: black  
+}
+a:hover{
+    color: red
+}
+a:visited{
+    color: purple
+}
+a:active{
+    color: blue
+}
